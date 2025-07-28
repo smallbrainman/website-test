@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+    background-color: aquamarine;
+    width: 120px;
+    font-style: italic;
+}
+
+body {
+    font-size: 50px;
+    color: blue;
+    font-family: Arial;
+}
